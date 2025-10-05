@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/UnrealVRquest3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/UnrealVRquest3/Content/Basic_Beginner_Platform.umap"
+			]
+		}
+	]
+}
