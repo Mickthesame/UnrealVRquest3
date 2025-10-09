@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Variant_Shooter/Blueprints/Cube.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Variant_Shooter/Blueprints/NewMaterial.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/6/2P/AVHZ1DB3XW9KT7M5TKTCNB.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/0/N7/W7ZBKYN9SHLPM8ML0VT3SN.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/7/WU/NYBJD2B8AY5HNZJ7CLFPVS.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/0/M0/ZEQUT6A1J7X2K1ZR6L60K8.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Materials/DOOR_001.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/DOOR_001_baseColor.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/DOOR_001_metallicRoughness.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/DOOR_001_normal.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Variant_Shooter/Blueprints/Door.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/__ExternalActors__/Variant_Shooter/Lvl_ArenaShooter/2/9X/TB79R1JIGFE813RS422XWR.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Materials/Material_002.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_002_baseColor.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_002_metallicRoughness.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_002_normal.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Materials/Material_004.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_004_baseColor.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_004_metallicRoughness.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/Material_004_normal.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Materials/cadre.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/cadre_baseColor.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/cadre_metallicRoughness.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/Textures/cadre_normal.uasset",
+				"C:/Users/mickt/OneDrive/Bureaublad/VR Unreal/UnrealVRquest3/Blueprint_test/Content/Fab/Door_with_handle/scene/StaticMeshes/scene.uasset"
+			]
+		}
+	]
+}
